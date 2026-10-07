@@ -9,6 +9,8 @@ I design and build complete software products: Flutter apps on Google Play, Andr
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rehan--illahi.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://rehan-illahi.vercel.app/)
 [![All Repositories](https://img.shields.io/badge/GitHub-All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehann199?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrehanilahi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrehanilahi)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Rehan%20Ilahi-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33178831/rehan-ilahi)
 
 </div>
 
@@ -171,7 +173,9 @@ Project types my portfolio supports:
 
 [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://rehan-illahi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-rehann199-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehann199)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrehanilahi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrehanilahi)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Rehan%20Ilahi-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/33178831/rehan-ilahi)
 
-To discuss a project, get in touch through the [portfolio](https://rehan-illahi.vercel.app/).
+To discuss a project, get in touch through the [portfolio](https://rehan-illahi.vercel.app/) or [LinkedIn](https://www.linkedin.com/in/mrehanilahi).
 
 </div>
